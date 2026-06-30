@@ -8,6 +8,8 @@ cl /I.\ blottorch.c /G2 /Z7 /Fablottorch.asm /Fdblottorch.pdb
 
 cl /I.\ blottorch.c /GA /Z7 /Fablottorch.asm /Fdblottorch.pdb
 
+& stdbool.h for both.
+
 
 ~ alCoPaUL & syranium, HAsAsIN [NaCl], beth GviLLErMo [GIMO], Zelotes ni Isa [ZnI], Brigada Ocho [b8]
   June 30, 2026, NYC
